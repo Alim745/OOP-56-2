@@ -9,12 +9,23 @@ git init | Команда для создания скрытного файла 
 git remote add origin https://github.com/Alim745/OOP-56-2.git
 
 -----------------------------------------------------------------------------------------------------------
-Команды которые 
+Команды которые часто пишутся в проекте
 
-git status  | Команды для просмотра состояния проекта или п
+git status  | Команды для просмотра состояния проекта или просмотра изменений
 
 git add .   | Команда копирует и сохраняет в буфер  (Невидемый)
 
 git commit -m "first commit"
 
 git push origin master
+
+git restore .  | Для сброса того что мы написали в файле
+git reset .    | Для удаления из буфера обмена после команды git add
+
+
+
+feat: added auth user
+update: reset password user
+fix: bag create news in top bar
+
+
