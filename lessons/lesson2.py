@@ -60,4 +60,3 @@
 # # mro - method resolution ordering
 #
 # # donald_duck.action()
-#
