@@ -22,7 +22,8 @@ git push origin master
 git restore .  | Для сброса того что мы написали в файле
 git reset .    | Для удаления из буфера обмена после команды git add
 
-
+git branch | Для просмотра веток
+git branch "branch_name" | Для создания ветки
 
 feat: added auth user
 update: reset password user
