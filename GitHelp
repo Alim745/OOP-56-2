@@ -25,8 +25,9 @@ git reset .    | Для удаления из буфера обмена посл
 git branch | Для просмотра веток
 git branch "branch_name" | Для создания ветки
 
-feat: added auth user
 update: reset password user
 fix: bag create news in top bar
 
-
+feat: added auth user
+cd ../  | Для перехода назад
+cd name_dir  | Для перехода в "name_dir"
