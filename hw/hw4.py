@@ -10,6 +10,6 @@ class Rectangle:
         return Rectangle(self.width + other.width, self.height + other.height)
 
 r1 = Rectangle(5, 10)
-r2 = Rectangle(15, 20)
+r2 = Rectangle(3, 7)
 r3 = r1 + r2
 print(r3)
